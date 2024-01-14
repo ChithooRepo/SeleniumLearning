@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/async-http-client-2.12.3.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/byte-buddy-1.14.5.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/checker-qual-3.33.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/commons-exec-1.3.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/error_prone_annotations-2.18.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/failsafe-3.3.2.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/failureaccess-1.0.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/guava-32.1.2-jre.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/j2objc-annotations-2.8.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/jsr305-3.0.2.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-buffer-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-codec-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-codec-http-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-codec-socks-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-common-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-handler-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-handler-proxy-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-resolver-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-transport-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-transport-classes-epoll-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-transport-classes-kqueue-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-transport-native-epoll-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/netty-transport-native-unix-common-4.1.96.Final.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-api-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-api-events-1.28.0-alpha.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-context-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-exporter-logging-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-common-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-logs-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-metrics-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-sdk-trace-1.28.0.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/opentelemetry-semconv-1.28.0-alpha.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/reactive-streams-1.0.4.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/lib/slf4j-api-2.0.7.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-api-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-chrome-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-chromium-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v85-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v114-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v115-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v116-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-edge-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-firefox-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-http-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-ie-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-java-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-json-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-manager-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-os-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-remote-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-safari-driver-4.12.1.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-support-4.12.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-api-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-chrome-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-chromium-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v85-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v114-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v115-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-devtools-v116-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-edge-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-firefox-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-http-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-ie-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-json-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-manager-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-os-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-remote-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-safari-driver-4.12.1-sources.jar!/" />
+          <root url="jar://D:/Selenium Jars &amp; Drivers/Selenium Jars/selenium-support-4.12.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
